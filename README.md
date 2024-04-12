@@ -1,5 +1,5 @@
 # Discord_Themes By-Nickname_Root
-<img src="https://github.com/NicknameRoot/Discord_Themes-By-Nickname_Root/blob/gh-pages/Site_Logo.png?raw=true" alt="Логотип">
+<link rel="icon" href="https://github.com/NicknameRoot/Discord_Themes-By-Nickname_Root/blob/gh-pages/Site_Logo.png?raw=true" type="image/png">
 
 [link](https://nicknameroot.github.io/Discord_Themes-By-Nickname_Root/)
 
