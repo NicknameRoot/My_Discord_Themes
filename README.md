@@ -4,7 +4,7 @@
 You can choose different backgrounds in the theme
 there are options:
 BG-1.png
-https://github.com/NicknameRoot/Discord_Themes-By-Nickname_Root/blob/gh-pages/BG-1.png?raw=true
+<img src="https://github.com/NicknameRoot/Discord_Themes-By-Nickname_Root/blob/gh-pages/BG-1.png?raw=true" width="100%">
 
 BG-2.png
 https://github.com/NicknameRoot/Discord_Themes-By-Nickname_Root/blob/gh-pages/BG-2.png?raw=true
