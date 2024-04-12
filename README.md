@@ -1,5 +1,6 @@
 # Discord_Themes By-Nickname_Root
-<img src="[https://example.com/images/logo.png](https://github.com/NicknameRoot/Discord_Themes-By-Nickname_Root/blob/gh-pages/Site_Logo.png?raw=true)" alt="Логотип">
+<img src="https://github.com/NicknameRoot/Discord_Themes-By-Nickname_Root/blob/gh-pages/Site_Logo.png?raw=true" alt="Логотип">
+
 [link](https://nicknameroot.github.io/Discord_Themes-By-Nickname_Root/)
 
 You can choose different backgrounds in the theme are options:
