@@ -1,2 +1,2 @@
-# My_Discord_Themes
-My_Discord_Themes_CSS
+# Discord_Themes By Nickname_Root
+Discord_Themes By Nickname_Root
