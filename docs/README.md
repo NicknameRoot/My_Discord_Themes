@@ -1,2 +1,0 @@
-# My_Discord_Themes
-My_Discord_Themes_CSS
