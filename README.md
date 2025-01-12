@@ -34,3 +34,12 @@ BG-7.png
 
 BG-8.png
 <img src="https://github.com/NicknameRoot/Discord_Themes-By-Nickname_Root/blob/gh-pages/BG-8.png?raw=true" width="100%">
+
+BG-9.png
+<img src="https://github.com/NicknameRoot/Discord_Themes-By-Nickname_Root/blob/gh-pages/BG-9.png?raw=true" width="100%">
+
+BG-10.png
+<img src="https://github.com/NicknameRoot/Discord_Themes-By-Nickname_Root/blob/gh-pages/BG-10.png?raw=true" width="100%">
+
+BG-11.png
+<img src="https://github.com/NicknameRoot/Discord_Themes-By-Nickname_Root/blob/gh-pages/BG-11.png?raw=true" width="100%">
